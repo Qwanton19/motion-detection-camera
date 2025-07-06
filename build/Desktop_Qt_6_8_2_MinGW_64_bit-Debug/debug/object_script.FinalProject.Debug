@@ -1,0 +1,10 @@
+debug/main.o
+debug/AutoSaveManager.o
+debug/CameraManager.o
+debug/EmailSender.o
+debug/MotionDetector.o
+debug/emailsender.o
+debug/mainwindow.o
+debug/moc_EmailSender.o
+debug/moc_emailsender.o
+debug/moc_mainwindow.o

@@ -1,0 +1,10 @@
+release/main.o
+release/AutoSaveManager.o
+release/CameraManager.o
+release/EmailSender.o
+release/MotionDetector.o
+release/emailsender.o
+release/mainwindow.o
+release/moc_EmailSender.o
+release/moc_emailsender.o
+release/moc_mainwindow.o
